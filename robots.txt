@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Allow: /*.js$
+Allow: /*.css$
+Sitemap: https://2s.com.vn/sitemap.xml
